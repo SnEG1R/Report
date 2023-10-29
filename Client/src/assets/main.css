@@ -1,0 +1,10 @@
+@import './base.css';
+
+@font-face {
+    font-family: "Proxima Nova";
+    font-weight: 400;
+    font-style: normal;
+    font-display: auto;
+    unicode-range: U+000-5FF;
+    src: local("ProximaNova"), url("public/fonts/ProximaNova/ProximaNova-Regular.woff") format("woff");
+}
